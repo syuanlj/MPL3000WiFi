@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MPL3000WiFi</string>
+    <string name="btnConn">Connect WIFI Printer</string>
+    <string name="btnPrint">Print</string>
+    <string name="btn_test">Print  Test  Page</string>
+    <string name="btnClose">Close</string>
+    <string name="txt_content">&quot;&quot;</string>
+    <string name="strLang">en</string>
+    <string name="lblAddressIp">Ip-Address:</string>
+    <string name="btn_opencasher">Open Casher</string>
+</resources>
